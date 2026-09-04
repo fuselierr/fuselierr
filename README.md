@@ -1,6 +1,6 @@
 ## Hi, I'm Mike Gao.
 
-I'm studying Computer Science at the University of Waterloo, interested in building useful full-stack applications.
+I'm studying Computer Science at the University of Waterloo, interested in ideating \& building useful full-stack applications.
 
 # Featured Projects
 
