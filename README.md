@@ -1,9 +1,18 @@
-## Hi, I'm Mike 👋
+## Hi, I'm Mike Gao.
 
-I'm studying Computer Science at the University of Waterloo, interested in building ambitious full-stack projects.
+I'm studying Computer Science at the University of Waterloo, interested in building useful full-stack applications.
 
-## Let's Connect
+# Featured Projects
 
-I'm always interested in interesting engineering problems, ambitious projects, and opportunities to build things that are technically challenging and useful.
-📧Email: mg000business@gmail.com
-💼Linkedin: https://www.linkedin.com/in/mikegao000/
+| Project | Description |
+| :--- | :--- |
+| [Athenaeum](https://github.com/fuselierr/athenaeum) | An AR ebook reader \& book sim |
+| [Blast](https://github.com/Usaim-Hakim/cs446-project) | Interactive grid-based mobile puzzle game |
+| [Timestamp](https://git.uwaterloo.ca/mw2auyeu/team102-4) | Group meeting \& event organizer |
+| [NavigAIt](https://github.com/fuselierr/navigAIt) | Employee onboarding AI assistant |
+
+## Where to find me
+
+- Email: mg000business@gmail.com
+- Portfolio [mikegao.ca](https://www.mikegao.ca/)
+- Linkedin: [mikegao000](https://www.linkedin.com/in/mikegao000/)
