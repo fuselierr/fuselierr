@@ -8,7 +8,7 @@ I love coming up with creative ideas that align with my vision and solve problem
 
 | Project | Description |
 | :--- | :--- |
-| [Athenaeum](https://github.com/fuselierr/athenaeum) | An AR ebook reader \& book sim |
+| [Athenaeum](https://athenaeum-seven.vercel.app/) | An AR ebook reader \& book sim |
 | [Blast](https://github.com/Usaim-Hakim/cs446-project) | Interactive grid-based mobile puzzle game |
 | [Timestamp](https://git.uwaterloo.ca/mw2auyeu/team102-4) | Group meeting \& event organizer |
 | [NavigAIt](https://github.com/fuselierr/navigAIt) | Employee onboarding AI assistant |
